@@ -1,7 +1,7 @@
 package tech.practice;
 
 
-//Creating Abstract implementation of vehicle 
+
 public abstract class AbstractImpl {
 	protected String model;
 	protected int year;
